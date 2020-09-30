@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_gA3egFjyEeSwH587EdFgTQ" modelName="top" defined="true" sourceFileRelativePath="Airplane_takeOff_proc.ma"/>
+  <notation:Diagram xmi:id="_gA3egVjyEeSwH587EdFgTQ" type="DEVS" element="_gA3egFjyEeSwH587EdFgTQ" name="Airplane_takeOff_proc.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_gA3egljyEeSwH587EdFgTQ"/>
+  </notation:Diagram>
+</xmi:XMI>
